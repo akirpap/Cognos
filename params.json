@@ -1,0 +1,10 @@
+{
+  "cognosRootURL": "https://us-south.dynamic-dashboard-embedded.cloud.ibm.com/daas/",
+  "apikey": "fnxwysBN9KRbjCw1IZdzvD25LKCPuyj_c8AQYaF6Bhbg",
+  "client_id": "12d88207-59da-4d96-9832-3f2078a06dc6",
+  "client_secret": "393ecc138fa51144b6473eeaa2b15db995a7b094",
+  "iam_apikey_description": "Auto-generated for key becb6e3e-fc7f-43eb-8b69-26d198a90546",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/664ee75ae2c34cf196c88f56bed2984a::serviceid:ServiceId-0f6a6e29-3c80-44b3-927c-401ff97764b9"
+}
